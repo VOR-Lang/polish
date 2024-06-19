@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="vorlang-polish",
-    version="0.0.1",
+    version="0.0.2",
     author="Vorlang",
     author_email="me@zanderlewis.dev",
     description="The VOR Programming Language Polisher",
