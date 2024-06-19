@@ -1,2 +1,2 @@
-# polish
+# Polish
 VOR code formatter.
